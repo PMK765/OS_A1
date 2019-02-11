@@ -1,0 +1,1 @@
+cmd_/home/osc/Peter1/student-files/simple.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/osc/Peter1/student-files/simple.ko /home/osc/Peter1/student-files/simple.o /home/osc/Peter1/student-files/simple.mod.o
